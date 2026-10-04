@@ -9,7 +9,7 @@ Espaço para registrar o andamento dos módulos do curso da [B7Web](https://b7we
 - [x] 01. Ambiente + HTML + CSS + Landing Page *(19 aulas)*
 - [x] 02. Lógica e algoritmos *(9 aulas)*
 - [x] 03. Fundamentos JS + DOM + Projeto: Lista de Tarefas *(17 aulas)*
-- [o] 04. Git + GitHub *(43 aulas)* ⏳ *(Em andamento)*
+- [ ] 04. Git + GitHub *(43 aulas)* ⏳ *(Em andamento)*
 - [ ] 05. JS Avançado: Fetch, Async/Await e Timers *(12 aulas)*
 - [ ] 06. Node, Npm e Typescript *(14 aulas)*
 - [ ] 07. Projeto: App de Clima *(13 aulas)*
@@ -39,7 +39,18 @@ Espaço para registrar o andamento dos módulos do curso da [B7Web](https://b7we
 
 ## 📝 Diário de Bordo & Anotações
 
-*(Os registros serão adicionados aqui apenas quando houver algo relevante, curiosidade técnica ou desafio que precise ser lembrado).*
+*(Os registros serão adicionados aqui apenas quando houver algo relevante, curiosidade técnica ou desafio que precise ser lembrado - Lembrando que tentarei sempre fazer anotações naturais fugindo do "techniquês" que recorrem as IA's para tentar transmitir mais conhecimento).*
+
+### 📌 Módulo 04: Git + GitHub
+
+#### 💡 Curiosidades & Descobertas
+- Ainda no básico, mas interessante começar a entender as branchs... Sendo:
+  - `git branch` — para listar as atuais no diretório.
+  - `git branch <nome_branch>` — para criação de nova branch.
+  - `git switch <nome_branch>` — para poder alterar a branch em uso ou exibição.
+  - `git merge <nome_branch>` — para poder fundir (merge) a branch escolhida para a atual.
+
+
 
 ---
 
