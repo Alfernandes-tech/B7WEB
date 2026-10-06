@@ -42,14 +42,8 @@ Espaço para registrar o andamento dos módulos do curso da [B7Web](https://b7we
 *(Os registros serão adicionados aqui apenas quando houver algo relevante, curiosidade técnica ou desafio que precise ser lembrado - Lembrando que tentarei sempre fazer anotações naturais fugindo do "techniquês" que recorrem as IA's para tentar transmitir mais conhecimento).*
 
 ### 📌 Módulo 04: Git + GitHub
-
-#### 💡 Curiosidades & Descobertas
-- Ainda no básico, mas interessante começar a entender as branchs... Sendo:
-  - `git branch` — para listar as atuais no diretório.
-  - `git branch <nome_branch>` — para criação de nova branch.
-  - `git switch <nome_branch>` — para poder alterar a branch em uso ou exibição.
-  - `git merge <nome_branch>` — para poder fundir (merge) a branch escolhida para a atual.
-
+- **Status:** ⏳ Em andamento
+- 📖 [Ver anotações completas do Módulo 04](./anotacoes/modulo-04.md)
 
 
 ---
