@@ -1,0 +1,14 @@
+* {
+    font-size: 13px;
+    margin: 0;
+    padding: 0;
+    list-style: circle;
+}
+
+table {
+    border: 1px solid #000;
+}
+
+div {
+    background-color: #ff0000;
+}
