@@ -21,4 +21,6 @@
 
   - `Ao usar branch -d` - Podemos estar excluindo uma branch (Mas comumente usada após finalizar as funções daquela branch e realizar o merge para a 'master')
 
+  - `git merge --abort` - Para abortar um merge que travou ou esta em conflito
+
 [⬅️ Voltar para o Índice Principal](../learningLog.md)
